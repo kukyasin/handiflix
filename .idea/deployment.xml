@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="apachi">
+    <serverData>
+      <paths name="Apache Local Web Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="handiflix" local="$PROJECT_DIR$" web="/handiflix" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="apachi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="www" local="$USER_HOME$/Documents/begin" web="http://localhost/begin" />
+            <mapping deploy="" local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="begin">
+        <serverdata>
+          <mappings>
+            <mapping deploy="begin" local="$USER_HOME$/Documents/begin" web="/begin" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
